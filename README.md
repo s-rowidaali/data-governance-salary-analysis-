@@ -27,7 +27,7 @@ The goal is to clean, validate, and analyze real-world salary data while applyin
 ## 🔍 Key Analysis & Insights
 
 ### 📊 Salary Distribution
-![Salary Distribution](salary_distribution.png)
+![Salary Distribution](images/salary_distribution.png)
 
 - The distribution is right-skewed, indicating the presence of high-income outliers  
 - Mean salary is higher than median, confirming skewness  
@@ -36,7 +36,7 @@ The goal is to clean, validate, and analyze real-world salary data while applyin
 ---
 
 ### 📈 Salary vs Experience
-![Salary vs Experience](salary_vs_experience(1).png)
+![Salary vs Experience](images/salary_vs_experience.png)
 
 - Salary increases significantly with experience  
 - Growth is steep in early career stages and stabilizes later  
