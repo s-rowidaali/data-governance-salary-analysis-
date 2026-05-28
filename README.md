@@ -36,7 +36,7 @@ The goal is to clean, validate, and analyze real-world salary data while applyin
 ---
 
 ### 📈 Salary vs Experience
-![Salary vs Experience](salary_vs_experience.png)
+![Salary vs Experience](salary_vs_experience(1).png)
 
 - Salary increases significantly with experience  
 - Growth is steep in early career stages and stabilizes later  
